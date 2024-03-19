@@ -1,3 +1,5 @@
+![image](https://github.com/fkryadr/kray-is/assets/70735903/d00bec77-5cd4-41c6-a70f-5fefd5744e09)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
